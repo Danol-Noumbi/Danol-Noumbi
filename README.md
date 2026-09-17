@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <!-- Bannière animée -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4B0082&height=230&section=header&text=DANOL%20NOUMBI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
@@ -139,3 +139,83 @@ Security
 <img src="https://skillicons.dev/icons?i=windows,vscode" />
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+
+
+
+## 💼 Parcours professionnel
+
+<table>
+<tr>
+<td width="70%" align="center">
+
+### 🚀 Développeur Full-Stack
+
+**Association Frequencies**
+
+📅 **Juin 2026 → Août 2026**
+📍 Limoges, France
+
+</td>
+<td width="30%" align="right">
+
+<img src="https://img.shields.io/badge/Full--Stack-Developer-2ea44f?style=for-the-badge&logo=react&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+> Développement et maintenance d'une **application web basée sur Firebase** pour une association culturelle.
+
+**🎯 Missions**
+
+* ✨ Développement de nouvelles fonctionnalités
+* 🐛 Correction de bugs fonctionnels
+* ♿ Amélioration de l'accessibilité
+* 🔄 Travail en **méthode Agile**
+* 📋 Gestion du projet avec **Azure DevOps**
+* 🌿 Collaboration et gestion du code avec **Git**
+
+**🛠️ Technologies**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🖥️ Support Informatique ( N1 )
+
+**CSP Limoges**
+
+📅 **Depuis Septembre 2025**
+📍 Limoges, France
+
+</td>
+<td width="50%" align="right">
+
+<img src="https://img.shields.io/badge/IT-Support-0969DA?style=for-the-badge&logo=linux&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+> Support informatique auprès des équipes lors des **matchs de basketball**, avec pour objectif d'assurer le bon fonctionnement des équipements et services informatiques.
+
+**🎯 Missions**
+
+* 🛠️ Maintien en condition opérationnelle des équipements
+* 🔍 Diagnostic et résolution d'incidents matériels et logiciels
+* 👥 Assistance et accompagnement des utilisateurs
+* ⚡ Priorisation et traitement des demandes
+* 💬 Communication avec les équipes et utilisateurs
+
+
+
