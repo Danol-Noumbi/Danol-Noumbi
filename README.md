@@ -18,3 +18,124 @@
 
 </div>
 
+
+
+## Profil
+
+### 👋 Bonjour, moi c'est **Danol**
+
+🎓 **Étudiant Ingénieur Informatique**  
+💻 Passionné par le **développement logiciel**  
+🔐 Intéressé par la **cybersécurité, les réseaux et les infrastructures**  
+☁️ Curieux des technologies **Cloud & DevOps**
+
+> Je conçois des applications modernes, des API robustes et des architectures
+> techniques fiables, tout en cherchant à comprendre les problématiques de
+> sécurité qui les entourent.
+
+---
+
+### 🧑‍💻 Qui suis-je ?
+
+<table>
+<tr>
+<td width="50%">
+
+**🎓 Formation**
+
+Cycle Ingénieur Informatique  
+**3IL Ingénieurs · Limoges**
+
+</td>
+<td width="50%">
+
+**🔎 Recherche actuelle**
+
+Stage en :
+- Fullstack
+- Cybersécurité
+- Systèmes & Réseaux
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**🛠️ Spécialisations**
+
+- 💻 Développement logiciel
+- ☁️ Cloud & DevOps
+- 🌐 Réseaux
+- 🔐 Cybersécurité
+
+</td>
+<td>
+
+**🌍 Langues**
+
+- 🇫🇷 Français — Natif
+- 🇬🇧 Anglais — TOEIC B2
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Ce qui m'intéresse
+
+```text
+Software Engineering
+        │
+        ├── 🌐 Web & Mobile
+        ├── ⚙️ Backend & API
+        └── 🏗️ Architecture logicielle
+
+Infrastructure
+        │
+        ├── ☁️ Cloud
+        ├── 🔄 DevOps / CI-CD
+        └── 🌐 Réseaux
+
+Security
+        │
+        ├── 🔐 Cybersécurité
+        ├── 🖥️ Sécurité des systèmes
+        └── 🛡️ Sécurité des infrastructures
+
+```
+
+## 🛠️ Stack technique
+ 
+<!-- Ajoute/retire les icônes selon ta stack réelle. Liste complète des icônes disponibles : https://skillicons.dev -->
+ 
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,python" />
+ 
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vue,html,css,vite" />
+ 
+**Bases de données**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
+ 
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git,github,gitlab,vault,synk,sonarcloud" />
+ 
+**Réseaux & Sécurité**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+<img src="https://img.shields.io/badge/OAuth2%2FOIDC-3B82F6?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
+ 
+**Supervision & Outils**
+<br/>
+<img src="https://skillicons.dev/icons?i=windows,vscode" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
