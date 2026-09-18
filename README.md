@@ -8,6 +8,8 @@
 
 ![snake](https://raw.githubusercontent.com/Danol-Noumbi/Danol-Noumbi/output-alt/snake.svg)
 
+![GitWorld](https://raw.githubusercontent.com/Danol-Noumbi/Danol-Noumbi/main/dist/gitworld.svg)
+
 <!-- Bannière animée -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4B0082&height=230&section=header&text=DANOL%20NOUMBI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 

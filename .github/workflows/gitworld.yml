@@ -1,0 +1,33 @@
+name: generate gitworld
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: generate gitworld svg + profile card
+        uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: Danol-Noumbi
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+
+      - name: commit and push svgs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/gitworld.svg dist/profile-card.svg
+          git diff --cached --quiet || git commit -m "update gitworld"
+          git push
