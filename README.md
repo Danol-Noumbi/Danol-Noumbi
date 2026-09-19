@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/🇬🇧_Read_this_profile_in_English→-blue?style=for-the-badge)](README.en.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4B0082&height=230&section=header&text=DANOL%20NOUMBI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -892,7 +894,7 @@ Formations pratiques en HTML, CSS, JavaScript, développement d'interfaces Web e
  
  
 <div align="center" >
-<p align="center"> <strong> <span style="color:#2ea44f; font-size:35px;"> Disponible pour un stage à partir de Janvier 2027 </span> </strong> </p>
+<h2 align="center"><strong>Disponible pour un stage à partir de Janvier 2027 </strong> </h2>
  
 
  
