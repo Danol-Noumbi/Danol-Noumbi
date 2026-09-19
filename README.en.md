@@ -25,9 +25,9 @@
 
 ### 👋 Hi, I'm **Danol**
 
-🎓 **Computer Engineering Student**
-💻 Passionate about **software development**
-🔐 Interested in **cybersecurity, networks and infrastructure**
+🎓 **Computer Engineering Student** <br>
+💻 Passionate about **software development** <br>
+🔐 Interested in **cybersecurity, networks and infrastructure** <br>
 ☁️ Curious about **Cloud & DevOps** technologies
 
 > I design modern applications, robust APIs and reliable technical
