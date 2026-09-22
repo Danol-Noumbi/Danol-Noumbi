@@ -388,6 +388,60 @@ Design and deployment of a <strong>secure corporate network infrastructure</stro
 <table>
 <tr>
 
+<td width="65%" valign="top">
+
+<h2> <a href="https://github.com/Danol-Noumbi/java-library-management">Library Management System</a></h2>
+
+<strong>Java Console Application · OOP & Design Patterns</strong>
+
+<blockquote>
+Console-based library management application for handling <strong>books, members, loans, returns, reservations and fines</strong>, with an architecture designed around object-oriented programming and several classic design patterns.
+</blockquote>
+
+<h3> Key Features</h3>
+
+<ul>
+<li>🧩 <strong>OOP & inheritance</strong> to model book categories and user types</li>
+<li>🏭 <strong>Factory</strong> pattern for centralized creation of books, users and reports</li>
+<li>🔔 <strong>Observer</strong> pattern to notify members when reservation or overdue-related events occur</li>
+<li>🔄 <strong>State</strong> pattern to manage the different states of a book</li>
+<li>🧮 <strong>Strategy</strong> pattern to switch between fine calculation methods and search algorithms</li>
+<li>🔒 <strong>Singleton & Facade</strong> patterns to centralize library access and simplify interactions with subsystems</li>
+<li>💾 <strong>Persistence</strong> with system state saving and loading</li>
+</ul>
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+<h3> Technologies</h3>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Design_Patterns-2C5364?style=for-the-badge&logoColor=white">
+
+<br><br>
+
+<h3> Preview</h3>
+
+<img src="./assets/projects/library-console.png" width="95%" alt="Library management console application preview">
+
+<br><br>
+
+<a href="https://github.com/Danol-Noumbi/java-library-management">
+🔗 <strong>View project </strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
 <td width="62%" valign="top">
 
 <h2>Secure microservices architecture</h2>
