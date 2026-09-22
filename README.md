@@ -294,7 +294,7 @@ CRM B2B conçu pour <strong>centraliser les prospects</strong>, suivre les inter
 
 
 <a href="https://github.com/Danol-Noumbi/crm">
-🔗 <strong>Voir le projet sur GitHub</strong>
+🔗 <strong>Voir le projet </strong>
 </a>
 
 </td>
@@ -376,6 +376,60 @@ Conception et déploiement d'une <strong>infrastructure réseau sécurisée d'en
 
 <a href="#">
 🔗 <strong>Voir la documentation</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+<h2> <a href="https://github.com/Danol-Noumbi/java-library-management">Système de gestion de bibliothèque</a></h2>
+
+<strong>Application console Java · POO & Design Patterns</strong>
+
+<blockquote>
+Application console de gestion d'une bibliothèque permettant de gérer les <strong>livres, adhérents, emprunts, retours, réservations et amendes</strong>, avec une architecture conçue autour de la programmation orientée objet et de plusieurs patrons de conception.
+</blockquote>
+
+<h3> Points clés</h3>
+
+<ul>
+<li>🧩 <strong>POO & héritage</strong> pour modéliser les catégories de livres et les types d'utilisateurs</li>
+<li>🏭 <strong>Factory</strong> pour centraliser la création des livres, utilisateurs et rapports</li>
+<li>🔔 <strong>Observer</strong> pour notifier les adhérents lors des changements liés aux réservations et retards</li>
+<li>🔄 <strong>State</strong> pour gérer les différents états d'un livre</li>
+<li>🧮 <strong>Strategy</strong> pour interchanger les modes de calcul d'amende et les algorithmes de recherche</li>
+<li>🔒 <strong>Singleton & Facade</strong> pour centraliser l'accès à la bibliothèque et simplifier les interactions avec les sous-systèmes</li>
+<li>💾 <strong>Persistance</strong> avec sauvegarde et chargement de l'état du système</li>
+</ul>
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+<h3> Technologies</h3>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/POO-4B0082?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Design_Patterns-2C5364?style=for-the-badge&logoColor=white">
+
+<br><br>
+
+<h3> Aperçu</h3>
+
+<img src="./assets/projects/library-console.png" width="95%" alt="Aperçu de l'application console de gestion de bibliothèque">
+
+<br><br>
+
+<a href="https://github.com/Danol-Noumbi/java-library-management">
+🔗 <strong>Voir le projet </strong>
 </a>
 
 </td>
