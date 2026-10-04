@@ -102,146 +102,119 @@
   <rect x="0" y="195" width="900" height="65" fill="url(#gnd)"/>
 
   <!-- Columns / Buildings -->
-  <g class="col" data-week="0"><rect x="0.0" y="128" width="16.3" height="67"
-    fill="#3178c6" rx="1"/><polygon points="0.0,128 8.2,120.0 16.3,128"
-      fill="#1a5fa0"/><rect class="win" x="7.0" y="132.0"
+  <g class="col" data-week="0"><rect x="0.0" y="112" width="16.3" height="83"
+    fill="#3178c6" rx="1"/><rect class="win" x="7.0" y="116.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="12.0" y="132.0"
+    <rect class="win" x="12.0" y="116.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="2.0" y="142.0"
+    <rect class="win" x="2.0" y="126.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="7.0" y="142.0"
+    <rect class="win" x="7.0" y="126.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="2.0" y="152.0"
+    <rect class="win" x="2.0" y="136.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.8s"/>
-    <rect class="win" x="12.0" y="152.0"
+    <rect class="win" x="12.0" y="136.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="7.0" y="162.0"
+    <rect class="win" x="7.0" y="146.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="12.0" y="162.0"
+    <rect class="win" x="12.0" y="146.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.3s"/>
-    <rect class="win" x="2.0" y="172.0"
+    <rect class="win" x="2.0" y="156.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.6s"/>
-    <rect class="win" x="7.0" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.9s"/></g>
-  <g class="col" data-week="1"><rect x="17.3" y="112" width="16.3" height="83"
-    fill="#3178c6" rx="1"/><rect class="win" x="19.3" y="116.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="24.3" y="116.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="19.3" y="126.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="29.3" y="126.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="24.3" y="136.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="29.3" y="136.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="19.3" y="146.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="24.3" y="146.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="19.3" y="156.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="29.3" y="156.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/>
-    <rect class="win" x="24.3" y="166.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.8s"/>
-    <rect class="win" x="29.3" y="166.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.1s"/></g>
-  <g class="col" data-week="2"><rect x="34.6" y="55" width="16.3" height="140"
-    fill="#3178c6" rx="1"/><line x1="42.8" y1="55" x2="42.8" y2="43.0"
-      stroke="#1a5fa0" stroke-width="1.5"/><circle class="blink" cx="42.8" cy="42.0" r="2"
-      fill="#ff4444" style="animation-delay:0.34s"/><rect class="win" x="36.6" y="59.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="46.6" y="59.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.6s"/>
-    <rect class="win" x="41.6" y="69.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.2s"/>
-    <rect class="win" x="46.6" y="69.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="36.6" y="79.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.8s"/>
-    <rect class="win" x="41.6" y="79.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="36.6" y="89.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="46.6" y="89.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.3s"/>
-    <rect class="win" x="41.6" y="99.0"
+    <rect class="win" x="7.0" y="156.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.9s"/>
-    <rect class="win" x="46.6" y="99.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/>
-    <rect class="win" x="36.6" y="109.0"
+    <rect class="win" x="2.0" y="166.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.5s"/>
-    <rect class="win" x="41.6" y="109.0"
+    <rect class="win" x="12.0" y="166.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.1s"/></g>
+  <g class="col" data-week="1"><rect x="17.3" y="55" width="16.3" height="140"
+    fill="#3178c6" rx="1"/><line x1="25.5" y1="55" x2="25.5" y2="43.0"
+      stroke="#1a5fa0" stroke-width="1.5"/><circle class="blink" cx="25.5" cy="42.0" r="2"
+      fill="#ff4444" style="animation-delay:0.17s"/><rect class="win" x="19.3" y="59.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.0s"/>
+    <rect class="win" x="24.3" y="59.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.3s"/>
+    <rect class="win" x="19.3" y="69.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.9s"/>
+    <rect class="win" x="29.3" y="69.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.5s"/>
+    <rect class="win" x="24.3" y="79.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.1s"/>
+    <rect class="win" x="29.3" y="79.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.4s"/>
+    <rect class="win" x="19.3" y="89.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="24.3" y="89.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.0s"/>
+    <rect class="win" x="19.3" y="99.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.6s"/>
+    <rect class="win" x="29.3" y="99.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/>
+    <rect class="win" x="24.3" y="109.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.8s"/>
-    <rect class="win" x="36.6" y="119.0"
+    <rect class="win" x="29.3" y="109.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.1s"/>
+    <rect class="win" x="19.3" y="119.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.4s"/>
-    <rect class="win" x="46.6" y="119.0"
+    <rect class="win" x="24.3" y="119.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.0s"/>
-    <rect class="win" x="41.6" y="129.0"
+          style="animation-delay:0.7s"/>
+    <rect class="win" x="19.3" y="129.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.6s"/>
-    <rect class="win" x="46.6" y="129.0"
+          style="animation-delay:1.3s"/>
+    <rect class="win" x="29.3" y="129.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.9s"/>
-    <rect class="win" x="36.6" y="139.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.2s"/>
-    <rect class="win" x="41.6" y="139.0"
+    <rect class="win" x="24.3" y="139.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.5s"/>
-    <rect class="win" x="36.6" y="149.0"
+    <rect class="win" x="29.3" y="139.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.8s"/>
+    <rect class="win" x="19.3" y="149.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.1s"/>
-    <rect class="win" x="46.6" y="149.0"
+    <rect class="win" x="24.3" y="149.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.7s"/>
-    <rect class="win" x="41.6" y="159.0"
+          style="animation-delay:3.4s"/>
+    <rect class="win" x="19.3" y="159.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.3s"/>
-    <rect class="win" x="46.6" y="159.0"
+          style="animation-delay:4.0s"/>
+    <rect class="win" x="29.3" y="159.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.6s"/><circle class="smoke" cx="39.5" cy="50.0" r="4"
+          style="animation-delay:4.6s"/><circle class="smoke" cx="22.2" cy="50.0" r="4"
       fill="#9bb" opacity="0.6"
-      style="animation-delay:0.80s"/></g>
+      style="animation-delay:0.40s"/></g>
+  <g>
+    <rect x="34.6" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="39.5" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="40.5" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
   <g>
     <rect x="51.9" y="189" width="16.3" height="6" fill="#0a2040"/>
     <rect x="56.8" y="189" width="2" height="5" fill="#5a3a1a"/>
@@ -257,275 +230,275 @@
     <rect x="91.4" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="92.4" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
   </g>
-  <g>
-    <rect x="103.8" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="108.7" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="109.7" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="7"><rect x="121.2" y="60" width="16.3" height="135"
-    fill="#3178c6" rx="1"/><line x1="129.3" y1="60" x2="129.3" y2="48.0"
-      stroke="#1a5fa0" stroke-width="1.5"/><circle class="blink" cx="129.3" cy="47.0" r="2"
-      fill="#ff4444" style="animation-delay:1.19s"/><rect class="win" x="123.2" y="64.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="128.2" y="64.0"
+  <g class="col" data-week="6"><rect x="103.8" y="60" width="16.3" height="135"
+    fill="#3178c6" rx="1"/><line x1="112.0" y1="60" x2="112.0" y2="48.0"
+      stroke="#1a5fa0" stroke-width="1.5"/><circle class="blink" cx="112.0" cy="47.0" r="2"
+      fill="#ff4444" style="animation-delay:1.02s"/><rect class="win" x="110.8" y="64.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="123.2" y="74.0"
+    <rect class="win" x="115.8" y="64.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="105.8" y="74.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="133.2" y="74.0"
+    <rect class="win" x="110.8" y="74.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="128.2" y="84.0"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="105.8" y="84.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="133.2" y="84.0"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="115.8" y="84.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="123.2" y="94.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="128.2" y="94.0"
+    <rect class="win" x="110.8" y="94.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="123.2" y="104.0"
+    <rect class="win" x="115.8" y="94.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="105.8" y="104.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.6s"/>
-    <rect class="win" x="133.2" y="104.0"
+    <rect class="win" x="110.8" y="104.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/>
-    <rect class="win" x="128.2" y="114.0"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="105.8" y="114.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.8s"/>
-    <rect class="win" x="133.2" y="114.0"
+          style="animation-delay:4.5s"/>
+    <rect class="win" x="115.8" y="114.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.1s"/>
-    <rect class="win" x="123.2" y="124.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.4s"/>
-    <rect class="win" x="128.2" y="124.0"
+    <rect class="win" x="110.8" y="124.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.7s"/>
-    <rect class="win" x="123.2" y="134.0"
+    <rect class="win" x="115.8" y="124.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.0s"/>
+    <rect class="win" x="105.8" y="134.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.3s"/>
-    <rect class="win" x="133.2" y="134.0"
+    <rect class="win" x="110.8" y="134.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.9s"/>
-    <rect class="win" x="128.2" y="144.0"
+          style="animation-delay:1.6s"/>
+    <rect class="win" x="105.8" y="144.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.5s"/>
-    <rect class="win" x="133.2" y="144.0"
+          style="animation-delay:2.2s"/>
+    <rect class="win" x="115.8" y="144.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.8s"/>
-    <rect class="win" x="123.2" y="154.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.1s"/>
-    <rect class="win" x="128.2" y="154.0"
+    <rect class="win" x="110.8" y="154.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.4s"/>
-    <rect class="win" x="123.2" y="164.0"
+    <rect class="win" x="115.8" y="154.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.7s"/>
+    <rect class="win" x="105.8" y="164.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.0s"/>
-    <rect class="win" x="133.2" y="164.0"
+    <rect class="win" x="110.8" y="164.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.6s"/><circle class="smoke" cx="126.0" cy="55.0" r="4"
+          style="animation-delay:4.3s"/><circle class="smoke" cx="108.7" cy="55.0" r="4"
       fill="#9bb" opacity="0.6"
-      style="animation-delay:2.80s"/></g>
-  <g class="col" data-week="8"><rect x="138.5" y="149" width="16.3" height="46"
-    fill="#3178c6" rx="1"/><polygon points="138.5,149 146.6,141.0 154.8,149"
-      fill="#1a5fa0"/><rect class="win" x="140.5" y="153.0"
+      style="animation-delay:2.40s"/></g>
+  <g class="col" data-week="7"><rect x="121.2" y="149" width="16.3" height="46"
+    fill="#3178c6" rx="1"/><polygon points="121.2,149 129.3,141.0 137.5,149"
+      fill="#1a5fa0"/><rect class="win" x="123.2" y="153.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.0s"/>
-    <rect class="win" x="150.5" y="153.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.6s"/>
-    <rect class="win" x="145.5" y="163.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.2s"/>
-    <rect class="win" x="150.5" y="163.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="140.5" y="173.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.8s"/>
-    <rect class="win" x="145.5" y="173.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/></g>
-  <g class="col" data-week="9"><rect x="155.8" y="112" width="16.3" height="83"
-    fill="#3178c6" rx="1"/><rect class="win" x="162.8" y="116.0"
+    <rect class="win" x="128.2" y="153.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="167.8" y="116.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.6s"/>
-    <rect class="win" x="157.8" y="126.0"
+    <rect class="win" x="123.2" y="163.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="162.8" y="126.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.2s"/>
-    <rect class="win" x="157.8" y="136.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.8s"/>
-    <rect class="win" x="167.8" y="136.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="162.8" y="146.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="167.8" y="146.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.3s"/>
-    <rect class="win" x="157.8" y="156.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="162.8" y="156.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.9s"/>
-    <rect class="win" x="157.8" y="166.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.5s"/>
-    <rect class="win" x="167.8" y="166.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.1s"/></g>
-  <g class="col" data-week="10"><rect x="173.1" y="128" width="16.3" height="67"
-    fill="#3178c6" rx="1"/><polygon points="173.1,128 181.2,120.0 189.4,128"
-      fill="#1a5fa0"/><rect class="win" x="175.1" y="132.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="180.1" y="132.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="175.1" y="142.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="185.1" y="142.0"
+    <rect class="win" x="133.2" y="163.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.5s"/>
-    <rect class="win" x="180.1" y="152.0"
+    <rect class="win" x="128.2" y="173.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.1s"/>
-    <rect class="win" x="185.1" y="152.0"
+    <rect class="win" x="133.2" y="173.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="175.1" y="162.0"
+          style="animation-delay:2.4s"/></g>
+  <g class="col" data-week="8"><rect x="138.5" y="112" width="16.3" height="83"
+    fill="#3178c6" rx="1"/><rect class="win" x="140.5" y="116.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="180.1" y="162.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="175.1" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="185.1" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/></g>
-  <g>
-    <rect x="190.4" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="195.3" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="196.3" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="12"><rect x="207.7" y="112" width="16.3" height="83"
-    fill="#3178c6" rx="1"/><rect class="win" x="214.7" y="116.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="219.7" y="116.0"
+          style="animation-delay:0.0s"/>
+    <rect class="win" x="150.5" y="116.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="209.7" y="126.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="214.7" y="126.0"
+    <rect class="win" x="145.5" y="126.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="209.7" y="136.0"
+    <rect class="win" x="150.5" y="126.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.5s"/>
+    <rect class="win" x="140.5" y="136.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.8s"/>
-    <rect class="win" x="219.7" y="136.0"
+    <rect class="win" x="145.5" y="136.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="214.7" y="146.0"
+          style="animation-delay:2.1s"/>
+    <rect class="win" x="140.5" y="146.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="219.7" y="146.0"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="150.5" y="146.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.3s"/>
-    <rect class="win" x="209.7" y="156.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="214.7" y="156.0"
+    <rect class="win" x="145.5" y="156.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.9s"/>
-    <rect class="win" x="209.7" y="166.0"
+    <rect class="win" x="150.5" y="156.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/>
+    <rect class="win" x="140.5" y="166.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.5s"/>
-    <rect class="win" x="219.7" y="166.0"
+    <rect class="win" x="145.5" y="166.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.1s"/></g>
+          style="animation-delay:4.8s"/></g>
+  <g class="col" data-week="9"><rect x="155.8" y="128" width="16.3" height="67"
+    fill="#3178c6" rx="1"/><polygon points="155.8,128 163.9,120.0 172.1,128"
+      fill="#1a5fa0"/><rect class="win" x="162.8" y="132.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.3s"/>
+    <rect class="win" x="167.8" y="132.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="157.8" y="142.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.9s"/>
+    <rect class="win" x="162.8" y="142.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="157.8" y="152.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="167.8" y="152.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.4s"/>
+    <rect class="win" x="162.8" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.0s"/>
+    <rect class="win" x="167.8" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="157.8" y="172.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.6s"/>
+    <rect class="win" x="162.8" y="172.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.9s"/></g>
+  <g>
+    <rect x="173.1" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="178.0" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="179.0" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
+  <g class="col" data-week="11"><rect x="190.4" y="112" width="16.3" height="83"
+    fill="#3178c6" rx="1"/><rect class="win" x="192.4" y="116.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.0s"/>
+    <rect class="win" x="202.4" y="116.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="197.4" y="126.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="202.4" y="126.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.5s"/>
+    <rect class="win" x="192.4" y="136.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="197.4" y="136.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.1s"/>
+    <rect class="win" x="192.4" y="146.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="202.4" y="146.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="197.4" y="156.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="202.4" y="156.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/>
+    <rect class="win" x="192.4" y="166.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.5s"/>
+    <rect class="win" x="197.4" y="166.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.8s"/></g>
+  <g>
+    <rect x="207.7" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="212.6" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="213.6" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
   <g>
     <rect x="225.0" y="189" width="16.3" height="6" fill="#0a2040"/>
     <rect x="229.9" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="230.9" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
   </g>
-  <g>
-    <rect x="242.3" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="247.2" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="248.2" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="15"><rect x="259.6" y="128" width="16.3" height="67"
-    fill="#3178c6" rx="1"/><polygon points="259.6,128 267.8,120.0 275.9,128"
-      fill="#1a5fa0"/><rect class="win" x="266.6" y="132.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="271.6" y="132.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.6s"/>
-    <rect class="win" x="261.6" y="142.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="266.6" y="142.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.2s"/>
-    <rect class="win" x="261.6" y="152.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.8s"/>
-    <rect class="win" x="271.6" y="152.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="266.6" y="162.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="271.6" y="162.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.3s"/>
-    <rect class="win" x="261.6" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="266.6" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.9s"/></g>
-  <g class="col" data-week="16"><rect x="276.9" y="149" width="16.3" height="46"
-    fill="#3178c6" rx="1"/><polygon points="276.9,149 285.1,141.0 293.2,149"
-      fill="#1a5fa0"/><rect class="win" x="278.9" y="153.0"
+  <g class="col" data-week="14"><rect x="242.3" y="128" width="16.3" height="67"
+    fill="#3178c6" rx="1"/><polygon points="242.3,128 250.5,120.0 258.6,128"
+      fill="#1a5fa0"/><rect class="win" x="244.3" y="132.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.0s"/>
-    <rect class="win" x="283.9" y="153.0"
+    <rect class="win" x="254.3" y="132.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="278.9" y="163.0"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="249.3" y="142.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="288.9" y="163.0"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="254.3" y="142.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.5s"/>
-    <rect class="win" x="283.9" y="173.0"
+    <rect class="win" x="244.3" y="152.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="249.3" y="152.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.1s"/>
-    <rect class="win" x="288.9" y="173.0"
+    <rect class="win" x="244.3" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="254.3" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="249.3" y="172.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="254.3" y="172.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/></g>
+  <g class="col" data-week="15"><rect x="259.6" y="149" width="16.3" height="46"
+    fill="#3178c6" rx="1"/><polygon points="259.6,149 267.8,141.0 275.9,149"
+      fill="#1a5fa0"/><rect class="win" x="266.6" y="153.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.3s"/>
+    <rect class="win" x="271.6" y="153.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="261.6" y="163.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.9s"/>
+    <rect class="win" x="266.6" y="163.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="261.6" y="173.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="271.6" y="173.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.4s"/></g>
+  <g>
+    <rect x="276.9" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="281.8" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="282.8" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
   <g>
     <rect x="294.2" y="189" width="16.3" height="6" fill="#0a2040"/>
     <rect x="299.1" y="189" width="2" height="5" fill="#5a3a1a"/>
@@ -561,43 +534,43 @@
     <rect x="403.0" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="404.0" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
   </g>
-  <g>
-    <rect x="415.4" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="420.3" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="421.3" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="25"><rect x="432.7" y="128" width="16.3" height="67"
-    fill="#3178c6" rx="1"/><polygon points="432.7,128 440.8,120.0 449.0,128"
-      fill="#1a5fa0"/><rect class="win" x="434.7" y="132.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="439.7" y="132.0"
+  <g class="col" data-week="24"><rect x="415.4" y="128" width="16.3" height="67"
+    fill="#3178c6" rx="1"/><polygon points="415.4,128 423.5,120.0 431.7,128"
+      fill="#1a5fa0"/><rect class="win" x="422.4" y="132.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="434.7" y="142.0"
+    <rect class="win" x="427.4" y="132.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="417.4" y="142.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="444.7" y="142.0"
+    <rect class="win" x="422.4" y="142.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="439.7" y="152.0"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="417.4" y="152.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="444.7" y="152.0"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="427.4" y="152.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="434.7" y="162.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="439.7" y="162.0"
+    <rect class="win" x="422.4" y="162.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="434.7" y="172.0"
+    <rect class="win" x="427.4" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="417.4" y="172.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.6s"/>
-    <rect class="win" x="444.7" y="172.0"
+    <rect class="win" x="422.4" y="172.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/></g>
+          style="animation-delay:3.9s"/></g>
+  <g>
+    <rect x="432.7" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="437.6" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="438.6" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
   <g>
     <rect x="450.0" y="189" width="16.3" height="6" fill="#0a2040"/>
     <rect x="454.9" y="189" width="2" height="5" fill="#5a3a1a"/>
@@ -628,11 +601,55 @@
     <rect x="541.4" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="542.4" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
   </g>
-  <g>
-    <rect x="553.8" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="558.7" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="559.7" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
+  <g class="col" data-week="32"><rect x="553.8" y="91" width="16.3" height="104"
+    fill="#3178c6" rx="1"/><rect class="win" x="555.8" y="95.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.0s"/>
+    <rect class="win" x="565.8" y="95.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="560.8" y="105.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="565.8" y="105.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.5s"/>
+    <rect class="win" x="555.8" y="115.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="560.8" y="115.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.1s"/>
+    <rect class="win" x="555.8" y="125.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="565.8" y="125.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="560.8" y="135.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="565.8" y="135.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/>
+    <rect class="win" x="555.8" y="145.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.5s"/>
+    <rect class="win" x="560.8" y="145.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.8s"/>
+    <rect class="win" x="555.8" y="155.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.4s"/>
+    <rect class="win" x="565.8" y="155.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.0s"/>
+    <rect class="win" x="560.8" y="165.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.6s"/>
+    <rect class="win" x="565.8" y="165.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.9s"/></g>
   <g class="col" data-week="33"><rect x="571.2" y="91" width="16.3" height="104"
     fill="#3178c6" rx="1"/><rect class="win" x="578.2" y="95.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
@@ -682,182 +699,138 @@
     <rect class="win" x="578.2" y="165.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.6s"/></g>
-  <g class="col" data-week="34"><rect x="588.5" y="91" width="16.3" height="104"
-    fill="#3178c6" rx="1"/><rect class="win" x="590.5" y="95.0"
+  <g>
+    <rect x="588.5" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="593.4" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="594.4" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
+  <g class="col" data-week="35"><rect x="605.8" y="83" width="16.3" height="112"
+    fill="#3178c6" rx="1"/><rect class="win" x="607.8" y="87.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.0s"/>
-    <rect class="win" x="595.5" y="95.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="590.5" y="105.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="600.5" y="105.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="595.5" y="115.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="600.5" y="115.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="590.5" y="125.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="595.5" y="125.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="590.5" y="135.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="600.5" y="135.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/>
-    <rect class="win" x="595.5" y="145.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.8s"/>
-    <rect class="win" x="600.5" y="145.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.1s"/>
-    <rect class="win" x="590.5" y="155.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.4s"/>
-    <rect class="win" x="595.5" y="155.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.7s"/>
-    <rect class="win" x="590.5" y="165.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.3s"/>
-    <rect class="win" x="600.5" y="165.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.9s"/></g>
-  <g>
-    <rect x="605.8" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="610.7" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="611.7" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="36"><rect x="623.1" y="83" width="16.3" height="112"
-    fill="#3178c6" rx="1"/><rect class="win" x="630.1" y="87.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="635.1" y="87.0"
+    <rect class="win" x="617.8" y="87.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="625.1" y="97.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="630.1" y="97.0"
+    <rect class="win" x="612.8" y="97.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="625.1" y="107.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.8s"/>
-    <rect class="win" x="635.1" y="107.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="630.1" y="117.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="635.1" y="117.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.3s"/>
-    <rect class="win" x="625.1" y="127.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="630.1" y="127.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.9s"/>
-    <rect class="win" x="625.1" y="137.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.5s"/>
-    <rect class="win" x="635.1" y="137.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.1s"/>
-    <rect class="win" x="630.1" y="147.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.7s"/>
-    <rect class="win" x="635.1" y="147.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.0s"/>
-    <rect class="win" x="625.1" y="157.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.3s"/>
-    <rect class="win" x="630.1" y="157.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.6s"/>
-    <rect class="win" x="625.1" y="167.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.2s"/>
-    <rect class="win" x="635.1" y="167.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.8s"/></g>
-  <g class="col" data-week="37"><rect x="640.4" y="112" width="16.3" height="83"
-    fill="#3178c6" rx="1"/><rect class="win" x="642.4" y="116.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="647.4" y="116.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="642.4" y="126.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="652.4" y="126.0"
+    <rect class="win" x="617.8" y="97.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.5s"/>
-    <rect class="win" x="647.4" y="136.0"
+    <rect class="win" x="607.8" y="107.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="612.8" y="107.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.1s"/>
-    <rect class="win" x="652.4" y="136.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="642.4" y="146.0"
+    <rect class="win" x="607.8" y="117.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.7s"/>
-    <rect class="win" x="647.4" y="146.0"
+    <rect class="win" x="617.8" y="117.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="642.4" y="156.0"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="612.8" y="127.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="652.4" y="156.0"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="617.8" y="127.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.2s"/>
-    <rect class="win" x="647.4" y="166.0"
+    <rect class="win" x="607.8" y="137.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.5s"/>
+    <rect class="win" x="612.8" y="137.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.8s"/>
-    <rect class="win" x="652.4" y="166.0"
+    <rect class="win" x="607.8" y="147.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.4s"/>
+    <rect class="win" x="617.8" y="147.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.0s"/>
+    <rect class="win" x="612.8" y="157.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.6s"/>
+    <rect class="win" x="617.8" y="157.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.9s"/>
+    <rect class="win" x="607.8" y="167.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.2s"/>
+    <rect class="win" x="612.8" y="167.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.5s"/></g>
+  <g class="col" data-week="36"><rect x="623.1" y="112" width="16.3" height="83"
+    fill="#3178c6" rx="1"/><rect class="win" x="630.1" y="116.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.3s"/>
+    <rect class="win" x="635.1" y="116.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="625.1" y="126.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.9s"/>
+    <rect class="win" x="630.1" y="126.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="625.1" y="136.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="635.1" y="136.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.4s"/>
+    <rect class="win" x="630.1" y="146.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.0s"/>
+    <rect class="win" x="635.1" y="146.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="625.1" y="156.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.6s"/>
+    <rect class="win" x="630.1" y="156.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="625.1" y="166.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.5s"/>
+    <rect class="win" x="635.1" y="166.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.1s"/></g>
+  <g>
+    <rect x="640.4" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="645.3" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="646.3" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
   <g>
     <rect x="657.7" y="189" width="16.3" height="6" fill="#0a2040"/>
     <rect x="662.6" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="663.6" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
   </g>
-  <g>
-    <rect x="675.0" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="679.9" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="680.9" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="40"><rect x="692.3" y="149" width="16.3" height="46"
-    fill="#3178c6" rx="1"/><polygon points="692.3,149 700.5,141.0 708.6,149"
-      fill="#1a5fa0"/><rect class="win" x="694.3" y="153.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="699.3" y="153.0"
+  <g class="col" data-week="39"><rect x="675.0" y="149" width="16.3" height="46"
+    fill="#3178c6" rx="1"/><polygon points="675.0,149 683.2,141.0 691.3,149"
+      fill="#1a5fa0"/><rect class="win" x="682.0" y="153.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="694.3" y="163.0"
+    <rect class="win" x="687.0" y="153.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="677.0" y="163.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="704.3" y="163.0"
+    <rect class="win" x="682.0" y="163.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="699.3" y="173.0"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="677.0" y="173.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="704.3" y="173.0"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="687.0" y="173.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.4s"/></g>
+  <g>
+    <rect x="692.3" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="697.2" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="698.2" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
   <g>
     <rect x="709.6" y="189" width="16.3" height="6" fill="#0a2040"/>
     <rect x="714.5" y="189" width="2" height="5" fill="#5a3a1a"/>
@@ -893,141 +866,141 @@
     <rect x="818.4" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="819.4" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
   </g>
-  <g>
-    <rect x="830.8" y="189" width="16.3" height="6" fill="#0a2040"/>
-    <rect x="835.7" y="189" width="2" height="5" fill="#5a3a1a"/>
-    <ellipse cx="836.7" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
-  </g>
-  <g class="col" data-week="49"><rect x="848.1" y="76" width="16.3" height="119"
-    fill="#3178c6" rx="1"/><rect class="win" x="850.1" y="80.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="855.1" y="80.0"
+  <g class="col" data-week="48"><rect x="830.8" y="76" width="16.3" height="119"
+    fill="#3178c6" rx="1"/><rect class="win" x="837.8" y="80.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="850.1" y="90.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.9s"/>
-    <rect class="win" x="860.1" y="90.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="855.1" y="100.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="860.1" y="100.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.4s"/>
-    <rect class="win" x="850.1" y="110.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="855.1" y="110.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.0s"/>
-    <rect class="win" x="850.1" y="120.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.6s"/>
-    <rect class="win" x="860.1" y="120.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/>
-    <rect class="win" x="855.1" y="130.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.8s"/>
-    <rect class="win" x="860.1" y="130.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.1s"/>
-    <rect class="win" x="850.1" y="140.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.4s"/>
-    <rect class="win" x="855.1" y="140.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.7s"/>
-    <rect class="win" x="850.1" y="150.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.3s"/>
-    <rect class="win" x="860.1" y="150.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.9s"/>
-    <rect class="win" x="855.1" y="160.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.5s"/>
-    <rect class="win" x="860.1" y="160.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.8s"/></g>
-  <g class="col" data-week="50"><rect x="865.4" y="128" width="16.3" height="67"
-    fill="#3178c6" rx="1"/><polygon points="865.4,128 873.5,120.0 881.7,128"
-      fill="#1a5fa0"/><rect class="win" x="867.4" y="132.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.0s"/>
-    <rect class="win" x="877.4" y="132.0"
+    <rect class="win" x="842.8" y="80.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="872.4" y="142.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.2s"/>
-    <rect class="win" x="877.4" y="142.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.5s"/>
-    <rect class="win" x="867.4" y="152.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:1.8s"/>
-    <rect class="win" x="872.4" y="152.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.1s"/>
-    <rect class="win" x="867.4" y="162.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:2.7s"/>
-    <rect class="win" x="877.4" y="162.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.3s"/>
-    <rect class="win" x="872.4" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:3.9s"/>
-    <rect class="win" x="877.4" y="172.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:4.2s"/></g>
-  <g class="col" data-week="51"><rect x="882.7" y="101" width="16.3" height="94"
-    fill="#3178c6" rx="1"/><rect class="win" x="889.7" y="105.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.3s"/>
-    <rect class="win" x="894.7" y="105.0"
-          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
-          style="animation-delay:0.6s"/>
-    <rect class="win" x="884.7" y="115.0"
+    <rect class="win" x="832.8" y="90.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="889.7" y="115.0"
+    <rect class="win" x="837.8" y="90.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="884.7" y="125.0"
+    <rect class="win" x="832.8" y="100.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.8s"/>
-    <rect class="win" x="894.7" y="125.0"
+    <rect class="win" x="842.8" y="100.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="889.7" y="135.0"
+    <rect class="win" x="837.8" y="110.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="894.7" y="135.0"
+    <rect class="win" x="842.8" y="110.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.3s"/>
-    <rect class="win" x="884.7" y="145.0"
+    <rect class="win" x="832.8" y="120.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.6s"/>
-    <rect class="win" x="889.7" y="145.0"
+    <rect class="win" x="837.8" y="120.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:3.9s"/>
-    <rect class="win" x="884.7" y="155.0"
+    <rect class="win" x="832.8" y="130.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:4.5s"/>
-    <rect class="win" x="894.7" y="155.0"
+    <rect class="win" x="842.8" y="130.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.1s"/>
-    <rect class="win" x="889.7" y="165.0"
+    <rect class="win" x="837.8" y="140.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:0.7s"/>
-    <rect class="win" x="894.7" y="165.0"
+    <rect class="win" x="842.8" y="140.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.0s"/>
+    <rect class="win" x="832.8" y="150.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.3s"/>
+    <rect class="win" x="837.8" y="150.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.6s"/>
+    <rect class="win" x="832.8" y="160.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.2s"/>
+    <rect class="win" x="842.8" y="160.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.8s"/></g>
+  <g class="col" data-week="49"><rect x="848.1" y="128" width="16.3" height="67"
+    fill="#3178c6" rx="1"/><polygon points="848.1,128 856.2,120.0 864.4,128"
+      fill="#1a5fa0"/><rect class="win" x="850.1" y="132.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.0s"/>
+    <rect class="win" x="855.1" y="132.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.3s"/>
+    <rect class="win" x="850.1" y="142.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.9s"/>
+    <rect class="win" x="860.1" y="142.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.5s"/>
+    <rect class="win" x="855.1" y="152.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.1s"/>
+    <rect class="win" x="860.1" y="152.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.4s"/>
+    <rect class="win" x="850.1" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="855.1" y="162.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.0s"/>
+    <rect class="win" x="850.1" y="172.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.6s"/>
+    <rect class="win" x="860.1" y="172.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/></g>
+  <g class="col" data-week="50"><rect x="865.4" y="101" width="16.3" height="94"
+    fill="#3178c6" rx="1"/><rect class="win" x="867.4" y="105.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.0s"/>
+    <rect class="win" x="877.4" y="105.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.6s"/>
+    <rect class="win" x="872.4" y="115.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.2s"/>
+    <rect class="win" x="877.4" y="115.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.5s"/>
+    <rect class="win" x="867.4" y="125.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:1.8s"/>
+    <rect class="win" x="872.4" y="125.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.1s"/>
+    <rect class="win" x="867.4" y="135.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:2.7s"/>
+    <rect class="win" x="877.4" y="135.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.3s"/>
+    <rect class="win" x="872.4" y="145.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:3.9s"/>
+    <rect class="win" x="877.4" y="145.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.2s"/>
+    <rect class="win" x="867.4" y="155.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.5s"/>
+    <rect class="win" x="872.4" y="155.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:4.8s"/>
+    <rect class="win" x="867.4" y="165.0"
+          width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
+          style="animation-delay:0.4s"/>
+    <rect class="win" x="877.4" y="165.0"
           width="2.5" height="2.5" fill="#e0f0ff" rx="0.5"
           style="animation-delay:1.0s"/></g>
+  <g>
+    <rect x="882.7" y="189" width="16.3" height="6" fill="#0a2040"/>
+    <rect x="887.6" y="189" width="2" height="5" fill="#5a3a1a"/>
+    <ellipse cx="888.6" cy="187.0" rx="4" ry="4" fill="#1f6feb"/>
+  </g>
 
   <!-- Train -->
   
