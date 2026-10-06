@@ -955,25 +955,3 @@ Formations pratiques en HTML, CSS, JavaScript, développement d'interfaces Web e
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:0F2027&height=120&section=footer" width="100%"/>
 </div>
 
-
-```
-Danol-Noumbi
-├─ assets
-│  └─ projects
-│     ├─ auth-dashboard.png
-│     ├─ crm-call.png
-│     ├─ crm-dashboard.png
-│     ├─ crm-login.png
-│     ├─ iot-dashboard.png
-│     ├─ library-console.png
-│     ├─ network-architecture.png
-│     ├─ pollution-home.png
-│     ├─ reservation-dashboard.png
-│     └─ secure-bank-containers.png
-├─ dist
-│  ├─ gitworld.svg
-│  └─ profile-card.svg
-├─ README.en.md
-└─ README.md
-
-```
