@@ -932,10 +932,17 @@ MOOC covering the fundamentals of information systems security, authentication, 
 44.5-hour training on Data Science and Machine Learning with Python
 </p>
 
-<p>
-🔐 <strong>Introduction to Cybersecurity</strong> - in progress<br>
-<em>Cisco</em>
-</p>
+<div align="center">
+  <a href="LIEN_DU_BADGE_CISCO">
+    <img src="./assets/certifications/cisco-introduction-cybersecurity.png"
+         width="110"
+         alt="Cisco Introduction to Cybersecurity Badge">
+  </a>
+  <br>
+  <strong>Cisco — Introduction to Cybersecurity</strong>
+  <br>
+  <sub>Fondamentaux de la cybersécurité</sub>
+</div>
 
 <p>
 🌐 <strong>Coursera</strong>
